@@ -1,0 +1,11 @@
+﻿text,label
+File Error and what why isn't,script
+exception selenium.common.exceptions.ElementClickInterceptedException,script
+xpath,script
+File Error,script
+Click issue,defect
+Button not clicked,defect
+Link not found,defect
+ArrayIndexOutofBoundsException,script
+Exception has occurred 11124,script
+Exception don't matter,script
